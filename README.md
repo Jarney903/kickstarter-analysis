@@ -13,7 +13,7 @@
 #### The analysis of Outcomes Based on Launch Date was performed by creating a pivot table of the number of successful, failed, and canceled campaigns for the theater category in the dataset available. This data was then visualized in a line graph to best determine the months with the most successful campaigns. See Figure 1 for results of the analysis graph
 
 ### Figure 1: Theater Outcomes Based on Launch Date
-![Theater Outcomes Based on Launch Date](/assets/images/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes Based on Launch Date](https://github.com/Jarney903/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
